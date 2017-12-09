@@ -57,12 +57,12 @@
     </div><!-- #page -->
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="{{ secure_asset('user/plugins/jquery.min.js') }}"></script>
+    <script src="{{ asset('user/plugins/jquery.min.js') }}"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="{{ secure_asset('user/bootstrap/js/bootstrap.min.js') }}"></script>
-    <script src="{{ secure_asset('user/plugins/imagesloaded.pkgd.min.js') }}"></script>
-    <script src="{{ secure_asset('user/plugins/owl.carousel.min.js') }}"></script>
-    <script src="{{ secure_asset('user/plugins/masonry.pkgd.min.js') }}"></script>
-    <script src="{{ secure_asset('user/js/navigation.js') }}"></script>
-    <script src="{{ secure_asset('user/js/skip-link-focus-fix.js') }}"></script>
-    <script src="{{ secure_asset('user/js/script.min.js') }}"></script>
+    <script src="{{ asset('user/bootstrap/js/bootstrap.min.js') }}"></script>
+    <script src="{{ asset('user/plugins/imagesloaded.pkgd.min.js') }}"></script>
+    <script src="{{ asset('user/plugins/owl.carousel.min.js') }}"></script>
+    <script src="{{ asset('user/plugins/masonry.pkgd.min.js') }}"></script>
+    <script src="{{ asset('user/js/navigation.js') }}"></script>
+    <script src="{{ asset('user/js/skip-link-focus-fix.js') }}"></script>
+    <script src="{{ asset('user/js/script.min.js') }}"></script>
