@@ -14,7 +14,7 @@
 
             <div class="col-md-6">
               <!-- <h1 class="site-title"><a href="index.html" rel="home">Astrif.</a></h1> -->
-              <h1 class="site-title title-image"><a href="index.html" rel="home"><img src="{{ asset('user/img/astrif-logo.png')}}" alt="astrif."></a></h1>
+              <h1 class="site-title title-image"><a href="index.html" rel="home"><img src="{{ asset('user/img/logo.jpg')}}" alt="astrif."></a></h1>
               <p class="site-description">- Good Food Lovers -</p>
             </div><!-- .col-md-6 -->
 
